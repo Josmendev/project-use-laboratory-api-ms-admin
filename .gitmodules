@@ -1,0 +1,15 @@
+[submodule "admin-programming-ms"]
+	path = admin-programming-ms
+	url = https://github.com/Project-Use-Laboratory-Admin-API-MS/admin-programming-ms.git
+[submodule "admin-services-ms"]
+	path = admin-services-ms
+	url = https://github.com/Project-Use-Laboratory-Admin-API-MS/admin-services-ms.git
+[submodule "admin-subscriptions-ms"]
+	path = admin-subscriptions-ms
+	url = https://github.com/Project-Use-Laboratory-Admin-API-MS/admin-subscriptions-ms.git
+[submodule "admin-persons-ms"]
+	path = admin-persons-ms
+	url = https://github.com/Project-Use-Laboratory-Admin-API-MS/admin-persons-ms.git
+[submodule "admin-laboratories-ms"]
+	path = admin-laboratories-ms
+	url = git@github.com:Project-Use-Laboratory-Admin-API-MS/admin-laboratories-ms.git
